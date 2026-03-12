@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "durationSeconds": 180,
+    "description": "Step into a sun-dappled forest where birdsong and rustling leaves clear your mind and sharpen attention.",
+    "imageAsset": "assets/images/forest_focus.jpg",
+    "sensoryRecipes": ["Birdsong", "Breeze", "Dappled Light", "Binaural"]
+  },
+  {
+    "id": "2",
+    "title": "Ocean Calm",
+    "tag": "Calm",
+    "durationSeconds": 180,
+    "description": "Let the slow rhythm of ocean waves wash over you, releasing tension and restoring a sense of ease.",
+    "imageAsset": "assets/images/ocean_calm.jpg",
+    "sensoryRecipes": ["Waves", "Sea Salt Air", "Warm Light", "432 Hz"]
+  },
+  {
+    "id": "3",
+    "title": "Deep Sleep",
+    "tag": "Sleep",
+    "durationSeconds": 180,
+    "description": "A blend of low-frequency tones and soft rainfall designed to guide you gently into deep, restorative sleep.",
+    "imageAsset": "assets/images/deep_sleep.jpg",
+    "sensoryRecipes": ["Soft Rain", "Delta Waves", "Mist", "Silence"]
+  },
+  {
+    "id": "4",
+    "title": "Mountain Reset",
+    "tag": "Reset",
+    "durationSeconds": 180,
+    "description": "Breathe in crisp mountain air. This session resets your nervous system and washes away mental fatigue.",
+    "imageAsset": "assets/images/mountain_reset.jpg",
+    "sensoryRecipes": ["Crisp Air", "Wind", "Binaural", "Warm Light"]
+  },
+  {
+    "id": "5",
+    "title": "Rain Studio",
+    "tag": "Focus",
+    "durationSeconds": 180,
+    "description": "The gentle drumming of rain on glass creates the perfect acoustic cocoon for deep, uninterrupted work.",
+    "imageAsset": "assets/images/rain_studio.jpg",
+    "sensoryRecipes": ["Soft Rain", "Breeze", "Mist", "White Noise"]
+  },
+  {
+    "id": "6",
+    "title": "Twilight Wind Down",
+    "tag": "Calm",
+    "durationSeconds": 180,
+    "description": "As the day fades to dusk, let this ambient blend ease you out of busyness and into quiet presence.",
+    "imageAsset": "assets/images/twilight_calm.jpg",
+    "sensoryRecipes": ["Warm Light", "Crickets", "Soft Rain", "432 Hz"]
+  }
+]
